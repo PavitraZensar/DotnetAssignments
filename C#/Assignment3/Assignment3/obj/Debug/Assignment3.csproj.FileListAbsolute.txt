@@ -1,0 +1,3 @@
+C:\Zensar\Dotnet Training\C sharp\Assignments\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+C:\Zensar\Dotnet Training\C sharp\Assignments\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.SuggestedBindingRedirects.cache
+C:\Zensar\Dotnet Training\C sharp\Assignments\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
