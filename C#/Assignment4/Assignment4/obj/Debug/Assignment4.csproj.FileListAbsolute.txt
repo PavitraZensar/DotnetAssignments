@@ -1,0 +1,8 @@
+C:\Zensar\Dotnet Training\C sharp\Assignments\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.AssemblyReference.cache
+C:\Zensar\Dotnet Training\C sharp\Assignments\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.SuggestedBindingRedirects.cache
+C:\Zensar\Dotnet Training\C sharp\Assignments\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\Zensar\Dotnet Training\C sharp\Assignments\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Zensar\Dotnet Training\C sharp\Assignments\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Zensar\Dotnet Training\C sharp\Assignments\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Zensar\Dotnet Training\C sharp\Assignments\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Zensar\Dotnet Training\C sharp\Assignments\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
