@@ -1,0 +1,8 @@
+C:\Assignments\C#\Codingtest2\Codingtest2\obj\Debug\Codingtest2.csproj.AssemblyReference.cache
+C:\Assignments\C#\Codingtest2\Codingtest2\obj\Debug\Codingtest2.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\Codingtest2\Codingtest2\obj\Debug\Codingtest2.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\Codingtest2\Codingtest2\bin\Debug\Codingtest2.exe.config
+C:\Assignments\C#\Codingtest2\Codingtest2\bin\Debug\Codingtest2.exe
+C:\Assignments\C#\Codingtest2\Codingtest2\bin\Debug\Codingtest2.pdb
+C:\Assignments\C#\Codingtest2\Codingtest2\obj\Debug\Codingtest2.exe
+C:\Assignments\C#\Codingtest2\Codingtest2\obj\Debug\Codingtest2.pdb
