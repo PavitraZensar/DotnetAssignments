@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style type="text/css"></style>
+</head>
+
+
+
+
+<!--1.Question-->
+
+    <body>
+        <h1>Sample form</h1>
+        1st Number: <input id="num" type="text" size="20" /><br /><br />
+        2nd Number: <input id="num" type="text" size="20" /><br /><br />
+
+
+
+        <button onclick="multiply()">multiply</button>
+        <button onclick="divide()">Divide</button>
+
+
+
+        <div id="result"></div>
+        <script type="text/javascript">
+            function multiply() {
+                var one = document.getElementById("num").value;
+                var two = document.getElementById("num").value;
+                document.getElementById('result').innerHTML = 'The result is :' + one * two;
+            }
+            function divide() {
+                var one = document.getElementById("num").value;
+                var two = document.getElementById("num").value;
+                document.getElementById('result').innerHTML = 'The result is:' + one % two;
+            }
+        </script>
+    </body>
+
+</html>

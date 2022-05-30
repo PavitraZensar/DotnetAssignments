@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+    <!--3.Question-->
+
+        <body>
+            Enter First number: <input id="num1" type="text" size="40" /><br /><br />
+            Enter Second number: <input id="num2" type="text" size="40" /><br /><br />
+            <button onclick="check()">check</button>
+
+            <div id="result"></div>
+
+            <script type="text/javascript">
+
+                function check() {
+                    var one = parseInt(document.getElementById("num1").value);
+                    var two = parseInt(document.getElementById("num2").value);
+                    if ((one > 50 && one < 99) && (two > 50 && two < 99)) {
+                        document.getElementById('result').innerHTML = true;
+                    }
+                    else {
+                        document.getElementById('result').innerHTML = false;
+                    }
+
+                }
+
+            </script>
+    </body>
+
+</body>
+</html>
