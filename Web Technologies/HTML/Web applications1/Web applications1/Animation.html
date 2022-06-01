@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        div {
+            width: 100px;
+            height: 100px;
+            background-color: beige;
+            animation-name: example;
+            animation-duration: 5s;
+            position: relative;
+        }
+        /*standard syantax */
+        @keyframes example {
+            0% {
+                background-color: black;
+            }
+
+            25% {
+                background-color: deeppink;
+                right: 500px;
+                top: 0px;
+            }
+
+            50% {
+                background-color: blue;
+                left: 500px;
+                top: 500px;
+            }
+
+            75% {
+                background-color: green;
+                right: 500px;
+                top: 500px;
+            }
+
+            100% {
+                background-color: purple;
+            }
+        }
+    </style>
+</head>
+<body>
+    <p><b>IE 9.0 and above only supports Animation</b></p>
+    <div>
+        HELLO WELCOME TO ANIMATION
+    </div>
+
+</body>
+</html>

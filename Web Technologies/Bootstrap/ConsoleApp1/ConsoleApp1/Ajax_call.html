@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.2.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $('button').click(function(){
+                $('#data').load("C:\Assignments\Bootstrap\Afterlogin.html");
+            });
+        });
+    </script>
+</head>
+<body>
+    <button>Load an Html page</button>
+    <br><br>
+    <p> Here is a Paragraph</p>
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+    </ul>
+    <div id="data">I am  DIV</div>
+
+</body>
+</html>

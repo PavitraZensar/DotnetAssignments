@@ -49,7 +49,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assignment1.html" />
+    <Content Include="NumOperation.html" />
+    <Content Include="CheckWithinRange.html" />
+    <Content Include="SameValues.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,7 @@
+C:\Assignments\CodebasedExam3\Codingexam3\Codingexam3\bin\Debug\Codingexam3.exe.config
+C:\Assignments\CodebasedExam3\Codingexam3\Codingexam3\bin\Debug\Codingexam3.exe
+C:\Assignments\CodebasedExam3\Codingexam3\Codingexam3\bin\Debug\Codingexam3.pdb
+C:\Assignments\CodebasedExam3\Codingexam3\Codingexam3\obj\Debug\Codingexam3.csproj.AssemblyReference.cache
+C:\Assignments\CodebasedExam3\Codingexam3\Codingexam3\obj\Debug\Codingexam3.csproj.CoreCompileInputs.cache
+C:\Assignments\CodebasedExam3\Codingexam3\Codingexam3\obj\Debug\Codingexam3.exe
+C:\Assignments\CodebasedExam3\Codingexam3\Codingexam3\obj\Debug\Codingexam3.pdb

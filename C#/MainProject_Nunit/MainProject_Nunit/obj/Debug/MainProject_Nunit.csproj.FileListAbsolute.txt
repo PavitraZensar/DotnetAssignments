@@ -1,0 +1,6 @@
+C:\Assignments\C#\MainProject_Nunit\MainProject_Nunit\bin\Debug\MainProject_Nunit.dll
+C:\Assignments\C#\MainProject_Nunit\MainProject_Nunit\bin\Debug\MainProject_Nunit.pdb
+C:\Assignments\C#\MainProject_Nunit\MainProject_Nunit\obj\Debug\MainProject_Nunit.csproj.AssemblyReference.cache
+C:\Assignments\C#\MainProject_Nunit\MainProject_Nunit\obj\Debug\MainProject_Nunit.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\MainProject_Nunit\MainProject_Nunit\obj\Debug\MainProject_Nunit.dll
+C:\Assignments\C#\MainProject_Nunit\MainProject_Nunit\obj\Debug\MainProject_Nunit.pdb

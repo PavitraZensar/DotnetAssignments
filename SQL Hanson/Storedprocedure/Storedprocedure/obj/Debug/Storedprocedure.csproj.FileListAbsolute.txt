@@ -1,0 +1,8 @@
+C:\Assignments\SQL Hanson\Storedprocedure\Storedprocedure\bin\Debug\Storedprocedure.exe.config
+C:\Assignments\SQL Hanson\Storedprocedure\Storedprocedure\bin\Debug\Storedprocedure.exe
+C:\Assignments\SQL Hanson\Storedprocedure\Storedprocedure\bin\Debug\Storedprocedure.pdb
+C:\Assignments\SQL Hanson\Storedprocedure\Storedprocedure\obj\Debug\Storedprocedure.csproj.AssemblyReference.cache
+C:\Assignments\SQL Hanson\Storedprocedure\Storedprocedure\obj\Debug\Storedprocedure.csproj.CoreCompileInputs.cache
+C:\Assignments\SQL Hanson\Storedprocedure\Storedprocedure\obj\Debug\Storedprocedure.exe
+C:\Assignments\SQL Hanson\Storedprocedure\Storedprocedure\obj\Debug\Storedprocedure.pdb
+C:\Assignments\SQL Hanson\Storedprocedure\Storedprocedure\obj\Debug\Storedprocedure.csproj.SuggestedBindingRedirects.cache

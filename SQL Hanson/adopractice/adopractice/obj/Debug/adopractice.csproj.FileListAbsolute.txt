@@ -1,0 +1,7 @@
+C:\Assignments\SQL Hanson\adopractice\adopractice\bin\Debug\adopractice.exe.config
+C:\Assignments\SQL Hanson\adopractice\adopractice\bin\Debug\adopractice.exe
+C:\Assignments\SQL Hanson\adopractice\adopractice\bin\Debug\adopractice.pdb
+C:\Assignments\SQL Hanson\adopractice\adopractice\obj\Debug\adopractice.csproj.AssemblyReference.cache
+C:\Assignments\SQL Hanson\adopractice\adopractice\obj\Debug\adopractice.csproj.CoreCompileInputs.cache
+C:\Assignments\SQL Hanson\adopractice\adopractice\obj\Debug\adopractice.exe
+C:\Assignments\SQL Hanson\adopractice\adopractice\obj\Debug\adopractice.pdb

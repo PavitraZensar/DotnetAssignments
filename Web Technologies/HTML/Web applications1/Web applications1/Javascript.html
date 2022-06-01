@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<!--Example 1-->
+    <body>
+    <h2>Javascripts</h2>
+    <p id="num">Java scripts can change HTML</p>
+    <p id="str">Name : Vijaya Durga</p>
+    <p id="obj">Object Info : This is Object</p>
+    <script>
+        var length=10;
+        var name="Abdul Kalam";
+        var object={firstname:"Ramakrishna", lastname:"Paramahamsa"};
+        document.getElementById("num").innerHTML=length;
+        document.getElementById("str").innerHTML=name;
+        document.getElementById("obj").innerHTML=object.firstname + " " + object.lastname;
+    </script>
+    <button type="button" onclick="document.getElementById('num').innerHTML=1824">Click me for Number</button>
+    <br><br>
+    <button type="button" onclick="document.getElementById('num').innerHTML='Zensar Associate'">Click me for Name</button>
+    <br><br>
+    <button type="button" onclick="document.getElementById('num').innerText='Pavitra' + 'Sathuri'">Click me for Object Info</button>
+    <br><br>
+</body>
+<!-- Example 2 : User Input with js function
+<body>
+    Enter Data : &nbsp;<input id="userinput" size="40">
+    <button ondblclick="userSubmit()">Submit</button> <br>
+    <br>
+    <div id="result"></div>
+    <script type="text/javascript">
+      function userSubmit(){
+          var UI=document.getElementById("userinput").value;
+          document.getElementById('result').innerHTML='The User typed :' + UI;
+      }
+    </script>
+</body>-->
+<!--Example 3 apply style--
+<body>
+    <div id="chstyle"></div>
+    <script>
+        document.getElementById('chstyle').innerHTML = '<p><b><i><font color=blue>Hello World of JavaScript</font></i></b></p>';
+    </script-->
+
+
+
+
+</html>

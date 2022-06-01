@@ -1,0 +1,8 @@
+C:\Assignments\ADO\BasicAdo1\BasicAdo1\bin\Debug\BasicAdo1.exe.config
+C:\Assignments\ADO\BasicAdo1\BasicAdo1\bin\Debug\BasicAdo1.exe
+C:\Assignments\ADO\BasicAdo1\BasicAdo1\bin\Debug\BasicAdo1.pdb
+C:\Assignments\ADO\BasicAdo1\BasicAdo1\obj\Debug\BasicAdo1.csproj.AssemblyReference.cache
+C:\Assignments\ADO\BasicAdo1\BasicAdo1\obj\Debug\BasicAdo1.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\ADO\BasicAdo1\BasicAdo1\obj\Debug\BasicAdo1.csproj.CoreCompileInputs.cache
+C:\Assignments\ADO\BasicAdo1\BasicAdo1\obj\Debug\BasicAdo1.exe
+C:\Assignments\ADO\BasicAdo1\BasicAdo1\obj\Debug\BasicAdo1.pdb

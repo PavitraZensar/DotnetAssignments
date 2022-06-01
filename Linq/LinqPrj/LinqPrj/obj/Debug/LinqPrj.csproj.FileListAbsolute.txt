@@ -1,0 +1,8 @@
+C:\Assignments\Linq\LinqPrj\LinqPrj\bin\Debug\LinqPrj.exe.config
+C:\Assignments\Linq\LinqPrj\LinqPrj\bin\Debug\LinqPrj.exe
+C:\Assignments\Linq\LinqPrj\LinqPrj\bin\Debug\LinqPrj.pdb
+C:\Assignments\Linq\LinqPrj\LinqPrj\obj\Debug\LinqPrj.csproj.AssemblyReference.cache
+C:\Assignments\Linq\LinqPrj\LinqPrj\obj\Debug\LinqPrj.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\Linq\LinqPrj\LinqPrj\obj\Debug\LinqPrj.csproj.CoreCompileInputs.cache
+C:\Assignments\Linq\LinqPrj\LinqPrj\obj\Debug\LinqPrj.exe
+C:\Assignments\Linq\LinqPrj\LinqPrj\obj\Debug\LinqPrj.pdb
