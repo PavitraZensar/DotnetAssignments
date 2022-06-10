@@ -1,0 +1,16 @@
+﻿@model IEnumerable<DAY1MVC.Models.Product>
+@{
+    
+        ViewBag.Title = "ListProduct";
+    }
+
+    <h3 style="color:purple "><strong>Product List</strong></h3>
+
+    @foreach (var e in Model)
+    {
+        <ul>
+            <li>@e.ID</li>
+            <li>@e.ProdName</li>
+            <li>@e.ProdPrice</li>
+        </ul>
+    }

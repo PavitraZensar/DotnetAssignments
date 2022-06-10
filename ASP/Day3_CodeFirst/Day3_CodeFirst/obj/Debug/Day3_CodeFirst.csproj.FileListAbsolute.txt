@@ -1,0 +1,2 @@
+C:\Assignments\ASP\Day3_CodeFirst\Day3_CodeFirst\obj\Debug\Day3_CodeFirst.csproj.AssemblyReference.cache
+C:\Assignments\ASP\Day3_CodeFirst\Day3_CodeFirst\obj\Debug\Day3_CodeFirst.csproj.CoreCompileInputs.cache

@@ -162,13 +162,13 @@ namespace CaseStudy
                         Console.WriteLine("Action is Successfully Completed Thank you ..!");
                         break;
                     
-                    case 9:
+                    case 9://Check the details of a particular student
                         aE.Check_Particular_Course();
                         Console.WriteLine();
                         Console.WriteLine("Action is Successfully Completed Thank you ..!");
                         break;
 
-                    case 10:
+                    case 10://Show all the registered students details
                         aE.Show_all_registered_Students();
                         Console.WriteLine();
                         Console.WriteLine("Action is Successfully Completed Thank you ..!");
